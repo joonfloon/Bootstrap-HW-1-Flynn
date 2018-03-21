@@ -3,20 +3,20 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+body {background-color: lightgray;/*changed background to lightgray*/
+}
 
+.jumbotron {background-color: lightblue;/*changed the jumbotron box to lightblue*/
+color: white;/*changed text color to white*/
+border: solid 5px white; /*added a white border to the jumbotron*/
+}
 
+h1 {color: white;/*changed color of icons to white*/
+}
 
+.panel-body {font-size: 15px;/*increased the size of the font for each panel*/
+  background-color: lightblue;/*changed the background color to light blue*/
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.panel-title {font-weight: bold;/*made the panel titles bold*/
+}
